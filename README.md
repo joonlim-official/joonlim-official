@@ -1,6 +1,6 @@
 # Hey, I'm Joon 👋
 
-I'm a data scientist and engineer who's spent the last several years at **Meta**, **LinkedIn**, and **Google** — mostly figuring out how to make AI systems actually useful (and not just demo-worthy).
+I'm a data scientist and engineer who's spent the last several years at **Meta**, **LinkedIn**, and **Google** — mostly figuring out how to make AI systems and AI native products actually useful (and not just demo-worthy).
 
 These days I'm deep into LLM post-training, evaluation, and building agentic systems. I also like shipping real products end-to-end, which means I spend more time in TypeScript than I'd like to admit.
 
