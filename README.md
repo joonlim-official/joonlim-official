@@ -1,72 +1,50 @@
 # Hey, I'm Joon 👋
 
-**Technologist. Full Stack Data Scientist & Engineer.**
+I'm a data scientist and engineer who's spent the last several years at **Meta**, **LinkedIn**, and **Google** — mostly figuring out how to make AI systems actually useful (and not just demo-worthy).
 
-I build intelligent systems at the intersection of AI engineering, data science, and product development. My work spans LLM post-training, evaluation, agentic systems, and shipping end-to-end products — from model to production.
+These days I'm deep into LLM post-training, evaluation, and building agentic systems. I also like shipping real products end-to-end, which means I spend more time in TypeScript than I'd like to admit.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joonlim/)
 
 ---
 
-### Where I've Built
+### Things I think about a lot
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </td>
-  </tr>
-</table>
+- How to evaluate LLMs beyond vibes (benchmarking, red teaming, quality metrics)
+- Post-training — RLHF, DPO, fine-tuning, and why the details matter more than the method
+- Agentic workflows that actually complete tasks instead of getting stuck in loops
+- Experiment design and causal inference (the unglamorous backbone of good data science)
+- Going from "cool prototype" to "thing people use every day"
 
 ---
 
-### What I Work On
+### Projects
 
-```
-AI Engineering          LLM post-training · RLHF · fine-tuning · prompt engineering
-LLM Evaluation          Benchmarking · red teaming · safety · quality metrics
-Agentic Systems         Tool-use agents · multi-step reasoning · orchestration
-Data Science            Experimentation · causal inference · ML pipelines
-Product Development     Full-stack apps · 0-to-1 products · mobile & web
-```
+| Project | What it is |
+|---------|------------|
+| [**RideFlow**](https://ridehelp.top) | A family ride coordination app I built with AI scheduling, an @AI chat assistant, real-time tracking, and ~40 screens. React Native + Expo + TypeScript + Express. Way more complex than I originally planned. |
+
+> More coming — working on agentic tools, Claude/Manus skills, and some analysis projects I want to write up properly.
 
 ---
 
-### Featured Projects
+### Tools I reach for
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**RideFlow**](https://ridehelp.top) | AI-powered family ride coordination app with natural language scheduling, @AI chat assistant, real-time tracking, and 40+ screens | React Native · Expo · TypeScript · Express · MySQL · AI/LLM |
+**AI/ML** — Python, PyTorch, Hugging Face, vLLM, LangChain, Weights & Biases
 
-> *More projects coming soon — agentic product/model developments, agentic analysis, Claude/Manus skills, and more.*
+**Data** — SQL, Pandas, Spark, dbt, Jupyter
 
----
-
-### Tech & Tools
-
-**AI / ML**&ensp; Python · PyTorch · Hugging Face · LangChain · OpenAI · Anthropic · vLLM · Weights & Biases
-
-**Data**&ensp; SQL · Pandas · Spark · dbt · Jupyter · Experiment Design · Causal Inference
-
-**Engineering**&ensp; TypeScript · React · React Native · Node.js · FastAPI · PostgreSQL · Docker · Kubernetes · GCP · AWS
-
-**LLM Ops**&ensp; Fine-tuning · RLHF · DPO · Evaluation Frameworks · Prompt Engineering · RAG
+**Building things** — TypeScript, React, React Native, Node.js, FastAPI, PostgreSQL, Docker, GCP, AWS
 
 ---
 
-### What's Next
+### What I'm up to now
 
-- 🔨 &ensp;Building agentic products and open-source tools
-- 📝 &ensp;Writing about LLM evaluation, post-training, and applied AI
-- 🧪 &ensp;Exploring Claude/Manus skills and agentic workflows
-- 📊 &ensp;Sharing data science and analysis projects
+- 🔨 Building agentic products and seeing what breaks
+- 📝 Writing about LLM eval and post-training (slowly)
+- 🧪 Making Claude/Manus skills and exploring what agents can actually do well
+- 📊 Open-sourcing some data science and analysis work
 
 ---
 
-<sub>Built with curiosity. Shipped with intent.</sub>
+<sub>I like building things that work. Sometimes they even work on the first try.</sub>
