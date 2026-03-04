@@ -22,6 +22,7 @@ These days I'm deep into LLM post-training, evaluation, and building agentic sys
 
 | Project | What it is |
 |---------|------------|
+| [**AI Detect**](https://www.aidetect.art) | A multi-judge LLM system for detecting AI-generated images and videos. 7 LLM judges from 6 providers evaluate media across 6 perceptual dimensions, with per-media-type optimization. 55K+ lines of TypeScript, 264 gold samples, 533 tests. Includes an [interactive research paper](https://www.aidetect.art/methodology) with PDF export. |
 | [**RideFlow**](https://ridehelp.top) | A family ride coordination app I built with AI scheduling, an @AI chat assistant, real-time tracking, and ~40 screens. React Native + Expo + TypeScript + Express. Way more complex than I originally planned. |
 
 > More coming — working on agentic tools, Claude/Manus skills, and some analysis projects I want to write up properly.
